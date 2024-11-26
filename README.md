@@ -5,7 +5,7 @@
 
 ## Overview
 
-Black Copy is a high-performance autonomous sumo robot designed for competition. Engineered with meticulous attention to detail, it leverages cutting-edge technology to achieve superior maneuverability, precision, and power.
+Black Copy is an autonomous sumo robot designed for competitive robotics events. This project, developed for IEEE Concordia’s Robowars 2024, by integrating advanced sensors, powerful microcontrollers, and a robust 3D-printed chassis, Black Copy demonstrated exceptional performance and strategic capabilities.
 
 ## Key Features
 
@@ -34,11 +34,11 @@ Black Copy is a high-performance autonomous sumo robot designed for competition.
 * Time-of-Flight (ToF) Sensors
 * Qtr Reflectance Sensors
 * Analog and I2C Multiplexers
-* 3D Printing
+* Fusion 360 & 3D Printing
 
 ## Building & Development
 
-[Insert a brief description of the building process, including component selection, assembly, code development, and testing.]
+
 
 ## Future Enhancements
 
