@@ -53,22 +53,23 @@ Black Copy is an autonomous sumo robot I designed for IEEE Concordia’s Robowar
   <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131815.png" width="27%" alt="Image 3">
 </p>
 
-*Caption: The final iteration of Black Copy's design using Fusion 360.*
+*The final iteration of Black Copy's design using Fusion 360.*
 
 ### 2. 3D Printing Chassis
 ![3D Printing Chassis](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/b41bf704.jpg)
-*Caption: Black Copy's parts being printed using the Bambu X1C.*
+*Black Copy's parts being printed using the Bambu X1C.*
 
 ### 3. Electronics & Wiring Setup
 <p align="center">
   <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240311_232413.jpg" width="45%" alt="Image 1">
   <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.47.51_d3819747.jpg" width="45%" alt="Image 2">
 </p>
+
 *Caption: Assembling the electronic components, from sensors, Lipo Battery, Motors to the Teensy 4.0.*
 
 ### 4. Testing
 ![Testing](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Video%202024-11-26%20at%2009.50.04_e69126f3.mp4)
-*Caption: First complete assembly, undergoing initial testing.*
+*First complete assembly, undergoing initial testing.*
 
 
 
@@ -90,13 +91,15 @@ Explore the journey of building and refining "Black Copy." Below are images show
 
 ### Competition Day
 ![Competition Day](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240317-P1933000.jpg)
-*Caption: Black Copy in action during IEEE Concordia’s Robowars 2024.*
+*Black Copy in action during IEEE Concordia’s Robowars 2024.*
 
 <p align="center">
   <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.49.20_2d907705.jpg" width="65%" alt="Image 1">
   <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/IMG_1733.JPG" width="30%" alt="Image 2">
 </p>
-*Caption: Me awake for more than 48 hrs somehow still functioning and enjoying every moment I could .*
+
+ *Me awake for more than 48 hrs somehow still functioning and enjoying every moment I could.*
+
 
 
 
