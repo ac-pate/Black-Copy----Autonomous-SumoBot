@@ -1,11 +1,11 @@
 # Black Copy: The Fearless Autonomous Sumo Champion
 ![Black Copy Robot](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240317-P1933148.jpg)
 
-> "Black Copy embodies the relentless pursuit of sumo dominance. Its robust design and intelligent control system make it a formidable competitor in the arena."
+> "Black Copy will forever stand as the symbol of where my passion for Robotics began."
 
 ## Overview
 
-Black Copy is an autonomous sumo robot designed for competitive robotics events. This project, developed for IEEE Concordia’s Robowars 2024, by integrating advanced sensors, powerful microcontrollers, and a robust 3D-printed chassis, Black Copy demonstrated exceptional performance and strategic capabilities.
+Black Copy is an autonomous sumo robot I designed for IEEE Concordia’s Robowars 2024, by integrating advanced sensors, powerful microcontrollers, and a robust 3D-printed chassis, Black Copy demonstrated exceptional performance and strategic capabilities.
 
 ## Key Features
 
@@ -21,7 +21,7 @@ Black Copy is an autonomous sumo robot designed for competitive robotics events.
     * PWM Motor Control
 * **Superior Design:**
     * 3D-Printed Chassis
-    * CAD-Modeled Design
+    * Fusion 360 CAD-Modeled Design
     * Modular Construction
 
 ## Technologies Utilized
@@ -34,7 +34,7 @@ Black Copy is an autonomous sumo robot designed for competitive robotics events.
 * Time-of-Flight (ToF) Sensors
 * Qtr Reflectance Sensors
 * Analog and I2C Multiplexers
-* Fusion 360 & 3D Printing
+* Fusion 360 & 3D Printing (Bambu X1C)
 
 ## Building & Development
 
@@ -42,10 +42,44 @@ Black Copy is an autonomous sumo robot designed for competitive robotics events.
 
 ## Future Enhancements
 
-* Line Following Capability
-* Wireless Communication
-* Advanced Sensor Integration
+* Poweful Brushless Motors
+* Stronger Gear Train and torque Distribution
+* Custom Wheels
+* Better Wireless Communication
+* Advanced Opponent Detection Alogorithms
 
 ## Conclusion
 
-Black Copy represents the culmination of meticulous engineering and relentless pursuit of sumo excellence. It serves as a testament to the power of combining advanced technologies with innovative design principles. This project not only yielded a fierce competitor but also provided valuable experience in embedded systems development, robotics, and control theory.
+Black Copy represents the culmination of 3 weeks & many all nighters for meticulous engineering and relentless pursuit of autonomous robotic excellence. It serves as a testement that I can acheive anything I set my mind to, but it might lead to me burning out and failing a course! But Hey. It was all worth it.
+
+## Image Galary
+
+Explore the journey of building and refining "Black Copy." Below are images showcasing various stages, designs, and moments during the development of the autonomous sumo robot.
+### 1. Initial CAD Design
+![Initial CAD Design](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/initial-cad-design.jpg)
+*Caption: The first iteration of Black Copy's design using Fusion 360.*
+
+### 2. 3D Printing Process
+![3D Printing Process](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/3d-printing-process.jpg)
+*Caption: Black Copy's parts being printed on the Bambu X1C.*
+
+### 3. Electronics & Wiring Setup
+![Wiring Setup](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/electronics-setup.jpg)
+*Caption: Assembling the electronic components, from sensors to the Teensy 4.0.*
+
+### 4. Assembly and Testing
+![Assembly and Testing](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/assembly-testing.jpg)
+*Caption: First complete assembly, undergoing initial testing.*
+
+### 5. Competition Day
+![Competition Day](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/competition-day.jpg)
+*Caption: Black Copy in action during IEEE Concordia’s Robowars 2024.*
+
+### 6. Final Touches
+![Final Touches](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/final-touches.jpg)
+*Caption: Last adjustments and preparations before the final competition.*
+
+### 7. Victory Moment
+![Victory Moment](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/victory-moment.jpg)
+*Caption: Celebrating the completion of Black Copy's journey.*
+
