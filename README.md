@@ -1,5 +1,5 @@
 # Black Copy: The Fearless Autonomous Sumo Champion
-![Black Copy Robot](https://github.com/your-username/black-copy/blob/main/images/robot.jpg)
+![Black Copy Robot](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240317-P1933148.jpg)
 
 > "Black Copy embodies the relentless pursuit of sumo dominance. Its robust design and intelligent control system make it a formidable competitor in the arena."
 
