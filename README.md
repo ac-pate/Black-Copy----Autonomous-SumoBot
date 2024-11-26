@@ -25,9 +25,9 @@ Black Copy is an autonomous sumo robot I designed for IEEE Concordia’s Robowar
     * Modular Construction
 
 <p align="center">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.50.05_069a693e.jpg" width="30%" alt="Image 1">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.50.05_dabb3e87.jpg" width="30%" alt="Image 2">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.50.05_7e12d15b.jpg" width="30%" alt="Image 3">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.50.05_069a693e.jpg" width="35%" alt="Image 1">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.50.05_dabb3e87.jpg" width="35%" alt="Image 2">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.50.05_7e12d15b.jpg" width="35%" alt="Image 3">
 </p>
 
 
@@ -45,23 +45,26 @@ Black Copy is an autonomous sumo robot I designed for IEEE Concordia’s Robowar
 
 ## Building & Development
 
-### 1. Initial CAD Design
+### 1. CAD Design
 
 <p align="center">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131913.png" width="30%" alt="Image 1">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131345.png" width="30%" alt="Image 2">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131815.png" width="30%" alt="Image 3">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131913.png" width="25%" alt="Image 1">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131345.png" width="50%" alt="Image 2">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131815.png" width="25%" alt="Image 3">
 </p>
 
-*Caption: The first iteration of Black Copy's design using Fusion 360.*
+*Caption: The final iteration of Black Copy's design using Fusion 360.*
 
-### 2. 3D Printing Process
-![3D Printing Process](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/3d-printing-process.jpg)
-*Caption: Black Copy's parts being printed on the Bambu X1C.*
+### 2. 3D Printing Chassis
+![3D Printing Chassis](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.50.05_b41bf704.jpg)
+*Caption: Black Copy's parts being printed using the Bambu X1C.*
 
 ### 3. Electronics & Wiring Setup
-![Wiring Setup](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/electronics-setup.jpg)
-*Caption: Assembling the electronic components, from sensors to the Teensy 4.0.*
+<p align="center">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240311_232413.jpg" width="50%" alt="Image 1">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.47.51_d3819747.jpg" width="50%" alt="Image 2">
+</p>
+*Caption: Assembling the electronic components, from sensors, Lipo Battery, Motors to the Teensy 4.0.*
 
 ### 4. Assembly and Testing
 ![Assembly and Testing](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/assembly-testing.jpg)
@@ -85,15 +88,14 @@ Black Copy represents the culmination of 3 weeks & many all nighters for meticul
 
 Explore the journey of building and refining "Black Copy." Below are images showcasing various stages, designs, and moments during the development of the autonomous sumo robot.
 
-### 5. Competition Day
-![Competition Day](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/competition-day.jpg)
+### Competition Day
+![Competition Day](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240317-P1933000.jpg)
 *Caption: Black Copy in action during IEEE Concordia’s Robowars 2024.*
 
-### 6. Final Touches
-![Final Touches](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/final-touches.jpg)
-*Caption: Last adjustments and preparations before the final competition.*
+<p align="center">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.49.20_2d907705.jpg" width="75%" alt="Image 1">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/IMG_1733.JPG" width="25%" alt="Image 2">
+</p>
 
-### 7. Victory Moment
-![Victory Moment](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/victory-moment.jpg)
-*Caption: Celebrating the completion of Black Copy's journey.*
+
 
