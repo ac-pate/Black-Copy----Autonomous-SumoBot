@@ -93,9 +93,10 @@ Explore the journey of building and refining "Black Copy." Below are images show
 *Caption: Black Copy in action during IEEE Concordia’s Robowars 2024.*
 
 <p align="center">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.49.20_2d907705.jpg" width="60%" alt="Image 1">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.49.20_2d907705.jpg" width="65%" alt="Image 1">
   <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/IMG_1733.JPG" width="30%" alt="Image 2">
 </p>
+*Caption: Me awake for more than 48 hrs somehow still functioning and enjoying every moment I could .*
 
 
 
