@@ -1,6 +1,8 @@
 # Black Copy: 3d printed Autonomous Sumo Robot
-
-<img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240317-P1933148.jpg" width="70%" alt="Image Description">
+<p align="center">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240317-P1933148.jpg" width="70%" alt="Image Description">
+</p>
+   
 
 
 > "Black Copy will forever stand as the symbol of where my passion for Robotics began."
