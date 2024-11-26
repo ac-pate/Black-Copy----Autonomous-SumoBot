@@ -94,7 +94,7 @@ Black Copy represents the culmination of 3 weeks & many all nighters for meticul
 Explore the journey of building and refining "Black Copy." Below are images showcasing various stages, designs, and moments during the development of the autonomous sumo robot.
 
 ### Competition Day
-![Competition Day](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240317-P1933000.jpg)
+![Competition Day](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/44444.jpg)
 *Black Copy in action during IEEE Concordia’s Robowars 2024.*
 
 <p align="center">
