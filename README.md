@@ -48,9 +48,9 @@ Black Copy is an autonomous sumo robot I designed for IEEE Concordia’s Robowar
 ### 1. CAD Design
 
 <p align="center">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131913.png" width="25%" alt="Image 1">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131345.png" width="50%" alt="Image 2">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131815.png" width="25%" alt="Image 3">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131913.png" width="27%" alt="Image 1">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131345.png" width="36%" alt="Image 2">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131815.png" width="27%" alt="Image 3">
 </p>
 
 *Caption: The final iteration of Black Copy's design using Fusion 360.*
@@ -61,8 +61,8 @@ Black Copy is an autonomous sumo robot I designed for IEEE Concordia’s Robowar
 
 ### 3. Electronics & Wiring Setup
 <p align="center">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240311_232413.jpg" width="50%" alt="Image 1">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.47.51_d3819747.jpg" width="50%" alt="Image 2">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/20240311_232413.jpg" width="45%" alt="Image 1">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.47.51_d3819747.jpg" width="45%" alt="Image 2">
 </p>
 *Caption: Assembling the electronic components, from sensors, Lipo Battery, Motors to the Teensy 4.0.*
 
@@ -93,8 +93,8 @@ Explore the journey of building and refining "Black Copy." Below are images show
 *Caption: Black Copy in action during IEEE Concordia’s Robowars 2024.*
 
 <p align="center">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.49.20_2d907705.jpg" width="75%" alt="Image 1">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/IMG_1733.JPG" width="25%" alt="Image 2">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.49.20_2d907705.jpg" width="60%" alt="Image 1">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/IMG_1733.JPG" width="30%" alt="Image 2">
 </p>
 
 
