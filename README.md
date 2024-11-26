@@ -48,15 +48,15 @@ Black Copy is an autonomous sumo robot I designed for IEEE Concordia’s Robowar
 ### 1. CAD Design
 
 <p align="center">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131913.png" width="27%" alt="Image 1">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131345.png" width="36%" alt="Image 2">
-  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131815.png" width="27%" alt="Image 3">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131913.png" width="30%" alt="Image 1">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131345.png" width="30%" alt="Image 2">
+  <img src="https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/Screenshot%202024-10-10%20131815.png" width="30%" alt="Image 3">
 </p>
 
 *Caption: The final iteration of Black Copy's design using Fusion 360.*
 
 ### 2. 3D Printing Chassis
-![3D Printing Chassis](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Image%202024-11-26%20at%2009.50.05_b41bf704.jpg)
+![3D Printing Chassis](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/b41bf704.jpg)
 *Caption: Black Copy's parts being printed using the Bambu X1C.*
 
 ### 3. Electronics & Wiring Setup
@@ -66,8 +66,8 @@ Black Copy is an autonomous sumo robot I designed for IEEE Concordia’s Robowar
 </p>
 *Caption: Assembling the electronic components, from sensors, Lipo Battery, Motors to the Teensy 4.0.*
 
-### 4. Assembly and Testing
-![Assembly and Testing](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/assembly-testing.jpg)
+### 4. Testing
+![Testing](https://github.com/ac-pate/Black-Copy----Autonomous-SumoBot/blob/main/sumo-bot-images/WhatsApp%20Video%202024-11-26%20at%2009.50.04_e69126f3.mp4)
 *Caption: First complete assembly, undergoing initial testing.*
 
 
